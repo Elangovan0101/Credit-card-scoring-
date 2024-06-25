@@ -41,10 +41,10 @@ The Credit Score Prediction project aims to provide a reliable tool for assessin
 ### How to Run the Project 🚀
 
 # Clone the repository
-git clone https://github.com/yourusername/credit-score-prediction.git
+git clone (https://github.com/Elangovan0101/Credit-card-scoring-.git)
 
 # Navigate to the project directory
 cd credit-score-prediction
 
 # Run the prediction script
-python credit_score_prediction.py
+python main.py
