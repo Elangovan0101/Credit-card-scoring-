@@ -38,13 +38,13 @@ The output includes the predicted credit score based on the entered financial an
 
 The Credit Score Prediction project aims to provide a reliable tool for assessing credit risk and making informed financial decisions. By leveraging machine learning techniques, it offers a predictive model that enhances accuracy in credit score estimation.
 
-### How to Run the Project 🚀
+# How to Run the Project 🚀
 
-# Clone the repository
+## Clone the repository
 git clone (https://github.com/Elangovan0101/Credit-card-scoring-.git)
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd credit-score-prediction
 
-# Run the prediction script
+## Run the prediction script
 python main.py
